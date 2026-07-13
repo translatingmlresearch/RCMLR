@@ -1,167 +1,39 @@
 +++
-title = "NeurIPS Workshop on Bayesian Decision-making and Uncertainty"
+title = "Responsible Communication of Machine Learning Research in Biomedicine"
 +++
 
-# Abstract
+# Responsible Communication of Machine Learning Research in Biomedicine
 
-Recent advances in ML and AI have led to impressive achievements, yet models often struggle to express uncertainty, and more importantly, make decisions that account for uncertainty. 
-This hinders the deployment of AI models in critical applications, ranging from scientific discovery, where uncertainty quantification is essential, to real-world scenarios with unpredictable and dynamic environments, where models may encounter data vastly different from their training sets.
+**NeurIPS 2026 Workshop**
+December 2026
+Sydney, Australia
 
-Through the use of probability, Bayesian methods offer a powerful framework to address these limitations by quantifying uncertainty, incorporating prior knowledge, enabling adaptive decision-making and information gathering in uncertain environments. 
-These approaches have led to significant progress and success in relevant fields, tackling critical problems such as drug discovery, hyperparameter tuning and environmental monitoring. 
-However, challenges remain in both theory and practice, such as establishing performance guarantees and scaling up these methods to handle the complexity and dimensionality of larger data and models. 
-On the other hand, the development of frontier models (e.g., based on large language models) presents new opportunities to enhance Bayesian methods with stronger priors and tools not previously available.
+The Responsible Communication of Machine Learning Research in Biomedicine workshop aims to bridge the translation gap between machine learning researchers and the domain scientists, clinicians and policymakers who must interpret and act on their findings.
 
-This workshop aims to bring together researchers from different but closely related areas, including Bayesian optimization, active learning, uncertainty quantification, Gaussian processes, spatiotemporal modeling, and sequential experimental design. 
-We seek to foster a vibrant exchange of ideas, showcase successful applications, and prompt fruitful discussion to collaboratively tackle the emerging challenges and shape the future directions of Bayesian decision-making and uncertainty in the new era of ML and AI.
+A persistent gap has emerged between what machine learning (ML) systems can deliver in biomedical contexts and how their capabilities are communicated to those who use or regulate them. In early discovery, high-profile systems such as AlphaFold and agentic research platforms such as AI Scientists have increasingly accelerated the pace at which unchecked capability claims enter public and policy discourse. In clinical deployment, decision-making tools are expanding rapidly but frameworks for communicating their limitations remain underdeveloped, illustrated by well-documented cases of oncology decision-support tools overstating their clinical capabilities, to more recent findings that LLMs achieving near-perfect medical benchmark scores fail to improve clinical decision-making with real patients. Across the pipeline, this gap drives hype, misuse, misinterpretation and poorly informed governance, with direct consequences for user trust, funding priorities and the effective adoption of advances in ML.
 
+In early discovery, frameworks to address this challenge are largely absent; in clinical settings, reporting standards such as TRIPOD+AI and TRIPOD-LLM represent important steps, but adherence remains low. A deeper contributing challenge is that the technical conventions and vocabulary that make findings legible within ML do not translate cleanly across the diverse stakeholders involved: researchers, clinicians, policymakers and science communicators frequently lack a common language and are left uncertain about what ML systems can and cannot do and unable to evaluate their claims. Because the challenges arise in the translation between communities, reporting standards alone or solutions developed by a single community in isolation cannot feasibly close the gap that unintended miscommunication creates.
 
+In response, this workshop treats structured, interdisciplinary dialogue as the method. Initiated from within the ML research community, it brings those who produce ML findings into direct exchange with the clinicians, policymakers and science communicators who must interpret and act on them. Previous NeurIPS, ICML and ICLR workshops have advanced related themes primarily from the ML perspective, including explainability, interpretability and responsible AI. This workshop builds on that foundation by shifting focus from how findings are communicated within ML to how they translate across the biomedical landscape and those who shape it. Grounded in real-world case studies, the workshop is designed to surface opportunities for evidence-based communication approaches when moving from problem to practice, with interdisciplinary exchange at its core.
 
-{{ new_block() }}
+## Important dates
 
+Call for papers: Topics now available – OpenReview link to follow
+Submission deadline: 29 August 2026 (AOE)
+Author notifications: 29 September 2026 (AOE)
+Workshop date: 11 or 12 December 2026 (TBC)
 
+## Organizers
 
-# Speakers
+Siobhan Sanford — GSK AIML
+Julia Meister — GSK AIML
+Qiyao Wei — Cambridge University
+Galvin Khara — GSK AIML
+Nikhil Cherian Kurian — Adelaide University
+Ben Glocker — Imperial University
+Jessica Schrouff — GSK AIML
 
-{{ grid(
-    text = [
-        ["Roman Garnett","Washington University in St. Louis and Uber"], 
-        ["Jacob R. Gardner","University of Pennsylvania"],
-        ["Virginia Aglietti","Google DeepMind"],
-        ["Esther Rolf","University of Colorado Boulder"],
-        ["Mark van der Wilk","University of Oxford"],
-    ],
-    urls = [
-        "https://www.cse.wustl.edu/~garnett/",
-        "https://jacobrgardner.github.io",
-        "https://virgiagl.github.io/",
-        "https://estherrolf.com",
-        "https://mvdw.uk",
-    ],
-    image_dir = "speakers",
-    narrow = true) }}
+Contact the organizers: [translating.ml.research@gmail.com](mailto:translating.ml.research@gmail.com)
 
-
-
-{{ new_block() }}
-
-
-
-# Schedule
-
-| Time (Canada) | Event |
-|---------------|-------|
-| 09:00 - 09:30 | **Introduction and Opening Remarks: Andreas Krause** {{ small_button(name = 'slides', url = 'slides/krause.pdf') }} |
-| 09:30 - 10:00 | Invited Talk: Mark van der Wilk - _Open Problems in Gaussian Process Approximation and Benchmarking_  {{ small_button(name = 'slides', url = 'slides/vanderwilk.pdf') }} |
-| 10:00 - 10:30 | **Discussion Break** |
-| 10:30 - 11:00 | Invited Talk: Esther Rolf - _We need to talk (more) about uncertainty in geospatial machine learning_ {{ small_button(name = 'slides', url = 'slides/rolf.pdf') }} |
-| 11:00 - 11:10 | Contributed Talk: Mathieu Alain - _Graph Classification Gaussian Processes via Hodgelet Spectral Features_ |
-| 11:10 - 11:20 | Contributed Talk: Taiwo Adebiyi - _Gaussian Process Thompson Sampling via Rootfinding_ |
-| 11:20 - 11:30 | Contributed Talk: Freddie Bickford Smith - _Rethinking Aleatoric and Epistemic Uncertainty_ |
-| 11:30 - 12:30 | **Lunch and Poster Session Setup** |
-| 12:30 - 12:40 | Contributed Talk: Patrick O'Hara - _Distributionally Robust Optimisation with Bayesian Ambiguity Sets_ |
-| 12:40 - 12:50 | Contributed Talk: Joachim Schaeffer - _Lithium-Ion Battery System Health Monitoring and Resistance-Based Fault Analysis from Field Data Using Recursive Spatiotemporal Gaussian Processes_ |
-| 12:50 - 13:00 | Contributed Talk: Rafael Oliveira - _Variational Search Distributions_ |
-| 13:00 - 13:30 | Invited Talk: Roman Garnett - _What I learned while writing the BayesOpt book_ {{ small_button(name = 'slides', url = 'slides/garnett.pdf') }} |
-| 13:30 - 14:00 | **Discussion Break** |
-| 14:00 - 14:30 | Invited Talk: Jacob R. Garnder - _Bayesian optimization needs better deep learning_ {{ small_button(name = 'slides', url = 'slides/gardner.pdf') }} |
-| 14:30 - 15:00 | Lightning Talks: Joshua Hang Sai Ip, Yibo Jiang, Dingyang Chen, Guiomar Pescador-Barrios, Sebastian W. Ober, Conor Heins, Richard Bergna, Martin Trapp |
-| 15:00 - 16:00 | **Poster Session** |
-| 16:00 - 16:30 | Invited Talk: Virginia Aglietti - _FunBO: Discovering Acquisition Functions for Bayesian Optimization with FunSearch_ {{ small_button(name = 'slides', url = 'slides/aglietti.pdf') }} |
-| 16:30 - 17:25 | **Panel Discussion** | 
-| 17:25 - 17:30 | **Closing Remarks** |
-
-
-
-{{ new_block() }}
-
-
-
-# Organizers
-
-{{ grid(
-    text = [
-        ["Alexander Terenin","Cornell University"],
-        ["Natalie Maus","University of Pennsylvania"],
-        ["Renato Berlingheiri","MIT"],
-        ["Zi Wang","Google DeepMind"],
-    ],
-    urls = [
-        "https://avt.im/",
-        "https://sites.google.com/seas.upenn.edu/natalie-maus/home/",
-        "https://renatoberlinghieri.github.io/",
-        "https://ziw.mit.edu/",
-    ],
-    image_dir = "organizers") }}
-
-
-
-{{ new_block() }}
-
-
-
-# Advisory Committee
-
-{{ grid(
-    text = [
-        ["Eytan Bakshy","Meta"],
-        ["David Bindel","Cornell University"],
-        ["Tamara Broderick","MIT"],
-        ["Carl Henrik Ek","University of Cambridge"],
-        ["Seth Flaxman","University of Oxford"],
-        ["Emtiyaz Khan","RIKEN"],
-        ["Andreas Krause","ETH Zürich"],
-        ["Jasper Snoek","Google DeepMind"],
-    ],
-    urls = [
-        "https://eytan.github.io",
-        "https://www.cs.cornell.edu/~bindel/",
-        "https://tamarabroderick.com/",
-        "http://carlhenrik.com/",
-        "https://sethrf.com/",
-        "https://emtiyaz.github.io/",
-        "https://las.inf.ethz.ch/krausea",
-        "https://research.google/people/jasper-snoek/",
-    ],
-    image_dir = "advisors") }}
-
-
-
-{{ new_block() }}
-
-
-
-# Sponsors
-
-{{ grid(
-    text = [
-        ["Google Research"],
-        ["Meta"],
-    ],
-    urls = [
-        "https://research.google/",
-        "https://ai.meta.com/",
-    ],
-    images = [
-        "sponsors/google-research.svg",
-        "sponsors/meta.svg"
-    ],
-    dark_invert = [
-        false,
-        true
-    ]) }}
-
-
-
-{{ new_block() }}
-
-
-
-# Accepted Workshop Papers
-
-{{ table(
-    data = "papers.csv", 
-    columns = ["Title","Authors"],
-    button_names = ["paper"], 
-    button_data_columns = [2], 
-    button_output_columns = [1]) }}
+This workshop is part of NeurIPS 2026.
+For general conference information, visit [neurips.cc](http://neurips.cc/).
