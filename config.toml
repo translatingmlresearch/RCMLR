@@ -12,6 +12,6 @@ smart_punctuation = true
 
 [extra]
 title = {tagline = "NeurIPS 2026 Workshop", title = "Responsible Communication of Machine Learning Research in Biomedicine", subtitles = ["Sydney, Australia", "December 2026"]}
-banner = {extension = "svg", size = "fit-height", fade = true}
+banner = {extension = "jpg", size = "fit-height", fade = true}
 buttons = [{name = "Home", url = "/RCMLR/"}, {name = "Call for papers", url = "/RCMLR/call-for-papers/"}, {name = "Speakers and Agenda", url = "/RCMLR/speakers-and-agenda/"}]
 header_pages = [{name = "Home", url = "/RCMLR/"},{name = "Call for papers", url = "/RCMLR/call-for-papers/"},{name = "Speakers and Agenda", url = "/RCMLR/speakers-and-agenda/"}]
