@@ -2,10 +2,15 @@
 title = "Call for Papers"
 +++
 
-<h1 style="text-align: center;">Call for papers</h1>
+<div style="text-align: center; padding: 40px 20px; margin-bottom: 40px; border-bottom: 1px solid rgba(255,255,255,0.15);">
 
-<p style="text-align: center;"><strong>Submission deadline: 29 August 2026 (AOE)</strong></p>
-<p style="text-align: center;"><strong>Submission portal: OpenReview link coming soon</strong></p>
+# Call for papers
+
+**Submission deadline: 29 August 2026 (AOE)**
+
+**Submission portal: OpenReview link coming soon**
+
+</div>
 
 We invite you to submit your paper to the workshop on Responsible Communication of Machine Learning Research in Biomedicine, to be held as part of the NeurIPS 2026 conference.
 
@@ -111,10 +116,10 @@ The tracks below are illustrative examples of relevant themes. We welcome submis
 
 <div style="text-align: center;">
 
-* Call for papers: Topics now available – OpenReview link to follow
-* Submission deadline: 29 August 2026 (AOE)
-* Author notifications: 29 September 2026 (AOE)
-* Workshop date: 11 or 12 December 2026 (TBC)
+Call for papers: Topics now available – OpenReview link to follow
+Submission deadline: 29 August 2026 (AOE)
+Author notifications: 29 September 2026 (AOE)
+Workshop date: 11 or 12 December 2026 (TBC)
 
 </div>
 
