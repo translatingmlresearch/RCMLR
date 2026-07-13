@@ -2,13 +2,12 @@
 title = "Call for Papers"
 +++
 
-<div style="text-align: center; padding: 40px 20px; margin-bottom: 40px; border-bottom: 1px solid rgba(255,255,255,0.15);">
+<div style="text-align: center; padding: 40px 20px; margin-bottom: 40px; background-color: rgba(255,255,255,0.03); border-bottom: 1px solid rgba(255,255,255,0.15);">
 
 # Call for papers
 
-**Submission deadline: 29 August 2026 (AOE)**
-
-**Submission portal: OpenReview link coming soon**
+<p style="text-align: center;"><strong>Submission deadline: 29 August 2026 (AOE)</strong></p>
+<p style="text-align: center;"><strong>Submission portal: OpenReview link coming soon</strong></p>
 
 </div>
 
@@ -116,10 +115,10 @@ The tracks below are illustrative examples of relevant themes. We welcome submis
 
 <div style="text-align: center;">
 
-Call for papers: Topics now available – OpenReview link to follow
-Submission deadline: 29 August 2026 (AOE)
-Author notifications: 29 September 2026 (AOE)
-Workshop date: 11 or 12 December 2026 (TBC)
+<p>Call for papers: Topics now available – OpenReview link to follow</p>
+<p>Submission deadline: 29 August 2026 (AOE)</p>
+<p>Author notifications: 29 September 2026 (AOE)</p>
+<p>Workshop date: 11 or 12 December 2026 (TBC)</p>
 
 </div>
 
