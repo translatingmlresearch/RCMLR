@@ -51,7 +51,7 @@ We particularly encourage:
 
 <h2 style="text-align: center;">Topics of interest</h2>
 
-The tracks below are illustrative examples of relevant themes. We welcome submissions on any topic that engages substantively with communicating, evaluating or governing machine learning claims in biomedicine.
+The tracks below are illustrative examples of relevant themes. We welcome submissions on any topic that engages substantively with using, evaluating, governing or communicating about machine learning in biomedicine.
 
 **Track 1: Empirical studies of ML capability claims in biomedicine**
 
@@ -76,6 +76,7 @@ The tracks below are illustrative examples of relevant themes. We welcome submis
 * Communication strategies that promote responsible adoption and use
 * Community-centred approaches to AI communication in biomedical or clinical settings
 * Methods for conveying uncertainty and model limitations to biomedical researchers or clinicians
+* Studies of uptake or how ML tools are used in practice by biomedical researchers or clinicians
 * Barriers to responsible ML adoption in biomedical or clinical workflows
 
 ---
