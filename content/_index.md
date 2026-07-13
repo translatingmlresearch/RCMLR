@@ -2,12 +2,6 @@
 title = "Responsible Communication of Machine Learning Research in Biomedicine"
 +++
 
-# Responsible Communication of Machine Learning Research in Biomedicine
-
-**NeurIPS 2026 Workshop**
-December 2026
-Sydney, Australia
-
 <p style="text-align: center;"><strong>The Responsible Communication of Machine Learning Research in Biomedicine workshop aims to bridge the translation gap between machine learning researchers and the domain scientists, clinicians and policymakers who must interpret and act on their findings.</strong></p>
 
 A persistent gap has emerged between what machine learning (ML) systems can deliver in biomedical contexts and how their capabilities are communicated to those who use or regulate them. In early discovery, high-profile systems such as AlphaFold and agentic research platforms such as AI Scientists have increasingly accelerated the pace at which unchecked capability claims enter public and policy discourse. In clinical deployment, decision-making tools are expanding rapidly but frameworks for communicating their limitations remain underdeveloped, illustrated by well-documented cases of oncology decision-support tools overstating their clinical capabilities, to more recent findings that LLMs achieving near-perfect medical benchmark scores fail to improve clinical decision-making with real patients. Across the pipeline, this gap drives hype, misuse, misinterpretation and poorly informed governance, with direct consequences for user trust, funding priorities and the effective adoption of advances in ML.
@@ -22,12 +16,12 @@ In response, this workshop treats structured, interdisciplinary dialogue as the 
 
 
 
-## Important dates
+<h2 style="text-align: center;">Important dates</h2>
 
-* Call for papers: Topics now available – OpenReview link to follow
-* Submission deadline: 29 August 2026 (AOE)
-* Author notifications: 29 September 2026 (AOE)
-* Workshop date: 11 or 12 December 2026 (TBC)
+<p style="text-align: center;"><strong>Call for papers:</strong> Topics now available – OpenReview link to follow</p>
+<p style="text-align: center;"><strong>Submission deadline:</strong> 29 August 2026 (AOE)</p>
+<p style="text-align: center;"><strong>Author notifications:</strong> 29 September 2026 (AOE)</p>
+<p style="text-align: center;"><strong>Workshop date:</strong> 11 or 12 December 2026 (TBC)</p>
 
 
 
