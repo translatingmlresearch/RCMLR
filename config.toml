@@ -1,4 +1,4 @@
-base_url = "https://gp-seminar-series.github.io/neurips-2024"
+base_url = "https://translatingmlresearch.github.io/RCMLR/"
 compile_sass = true
 build_search_index = false
 generate_feeds = false
