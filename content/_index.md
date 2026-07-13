@@ -46,7 +46,7 @@ In response, this workshop treats structured, interdisciplinary dialogue as the 
         ["Julia Meister","GSK AIML"],
         ["Qiyao Wei","Cambridge University"],
         ["Galvin Khara","GSK AIML"],
-        ["Nikhil Cherian Kurian","Adelaide University"],
+        ["Nikhil Kurian","Adelaide University"],
         ["Ben Glocker","Imperial University"],
         ["Jessica Schrouff","GSK AIML"],
     ],
