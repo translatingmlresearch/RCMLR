@@ -19,13 +19,25 @@ In response, this workshop treats structured, interdisciplinary dialogue as the 
 
 ## Organizers
 
-Siobhan Sanford — GSK AIML
-Julia Meister — GSK AIML
-Qiyao Wei — Cambridge University
-Galvin Khara — GSK AIML
-Nikhil Cherian Kurian — Adelaide University
-Ben Glocker — Imperial University
-Jessica Schrouff — GSK AIML
+{{ grid(
+    text = [
+        ["Siobhan Sanford","GSK AIML"],
+        ["Julia Meister","GSK AIML"],
+        ["Qiyao Wei","Cambridge University"],
+        ["Galvin Khara","GSK AIML"],
+        ["Nikhil Cherian Kurian","Adelaide University"],
+        ["Ben Glocker","Imperial University"],
+        ["Jessica Schrouff","GSK AIML"],
+    ],
+    images = [
+        "organizers/Siobhan Saford.jpg",
+        "organizers/JM.jpg",
+        "organizers/Qiyao Wei.png",
+        "organizers/GK.jpg",
+        "organizers/NCK.png",
+        "organizers/BG.jpg",
+        "organizers/Jessica Schrouff.jpg",
+    ]) }}
 
 Contact the organizers: [translating.ml.research@gmail.com](mailto:translating.ml.research@gmail.com)
 
