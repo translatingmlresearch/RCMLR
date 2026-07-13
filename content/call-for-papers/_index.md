@@ -37,6 +37,8 @@ We particularly encourage:
 
 **Submission:** All submissions should be made via OpenReview (link to follow).
 
+**OpenReview profile:** All authors and reviewers must have an OpenReview profile by the submission deadline. New profiles created without an institutional email can take up to two weeks to be moderated and activated; profiles created with an institutional email are activated automatically (see the NeurIPS [Main Track Handbook](https://neurips.cc/Conferences/2026/MainTrackHandbook) for more information).
+
 **Review protocol:** Authors should anonymize their submissions to ensure a double blind review process.
 
 **LLM policy:** In the preparation of your contributions, the use of LLMs is allowed only as a general-purpose writing assist tool.
