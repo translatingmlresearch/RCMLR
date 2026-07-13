@@ -53,51 +53,44 @@ We particularly encourage:
 
 <h2 style="text-align: center;">Topics of interest</h2>
 
-The tracks below are illustrative examples of relevant themes. We welcome submissions on any topic that engages substantively with using, evaluating, governing or communicating about machine learning in biomedicine.
+The tracks below are illustrative examples of relevant themes. We welcome submissions on any topic that engages substantively with using, evaluating, governing or communicating about machine learning — including foundation models and LLMs — in biomedicine.
 
 **Track 1: Empirical studies of ML capability claims in biomedicine**
 
-* Systematic evaluation of audience comprehension of ML capabilities and limitations
-* Studies of nonexpert or public understanding and misunderstanding of ML capabilities
-* Empirical analysis of how ML capability claims in biomedicine are communicated to different audiences
+* Studies of audience comprehension, public understanding or misunderstanding of ML capabilities and limitations
 * Empirical analysis of patterns in overstated or misrepresented capability claims
+* Studies evaluating how capability claims influence trust or adoption decisions
+* Comparisons across publication venues (e.g. papers, press releases, social media, clinician-facing materials)
 
----
-
-**Track 2: Frameworks and tools for accurately conveying ML capabilities and limitations to non-expert audiences**
+**Track 2: Methods and tools for communicating ML capabilities and limitations**
 
 * Evidence-based practices for translating ML concepts to non-experts
-* Novel approaches to communicating model uncertainty and limitations
+* Novel approaches to communicating model uncertainty and limitations, including for foundation models and LLMs
 * Communication-focused evaluation metrics for ML systems
 * Explainability and interpretability methods designed for non-technical stakeholders
-
----
 
 **Track 3: Methods for responsible ML adoption in biomedical research and healthcare**
 
 * Communication strategies that promote responsible adoption and use
 * Community-centred approaches to AI communication in biomedical or clinical settings
 * Methods for conveying uncertainty and model limitations to biomedical researchers or clinicians
-* Studies of uptake or how ML tools are used in practice by biomedical researchers or clinicians
+* Studies evaluating communication during the implementation and deployment of ML systems in biomedical or clinical settings
 * Barriers to responsible ML adoption in biomedical or clinical workflows
 
----
-
-**Track 4: Governance and regulatory approaches to ML-based biomedical tools**
+**Track 4: Governance, reporting standards and policy communication**
 
 * Novel frameworks or standards for translating technical research into usage guidelines or policy recommendations
 * Case studies from journalism, policy and public communication of AI
 * Studies of how policymakers interpret technical ML findings and related impacts
 * Evaluation of existing reporting standards (e.g. TRIPOD+AI, TRIPOD-LLM) and adherence to them
 
----
-
 **Track 5: Case studies of communication successes and failures across the biomedical ML pipeline**
 
 * Case studies of communication successes and failures in early biomedical discovery or clinical deployment
+* Lessons learned from failed translation of ML systems into biomedical practice
+* Communication across the research-to-clinic pipeline
 * Cross-cultural studies of AI perception and understanding in biomedical and healthcare contexts
 * How cultural and linguistic framing shape ML communication effectiveness
-
 
 
 {{ new_block() }}
