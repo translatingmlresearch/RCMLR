@@ -112,15 +112,10 @@ The tracks below are illustrative examples of relevant themes. We welcome submis
 
 
 <h2 style="text-align: center;">Important dates</h2>
-
-<div style="text-align: center;">
-
-<p>Call for papers: Topics now available – OpenReview link to follow</p>
-<p>Submission deadline: 29 August 2026 (AOE)</p>
-<p>Author notifications: 29 September 2026 (AOE)</p>
-<p>Workshop date: 11 or 12 December 2026 (TBC)</p>
-
-</div>
+<p style="text-align: center;">Call for papers: Topics now available – OpenReview link to follow</p>
+<p style="text-align: center;">Submission deadline: 29 August 2026 (AOE)</p>
+<p style="text-align: center;">Author notifications: 29 September 2026 (AOE)</p>
+<p style="text-align: center;">Workshop date: 11 or 12 December 2026 (TBC)</p>
 
 {{ new_block() }}
 
