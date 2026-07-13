@@ -122,8 +122,6 @@ The tracks below are illustrative examples of relevant themes. We welcome submis
 
 </div>
 
-
-
 {{ new_block() }}
 
 
