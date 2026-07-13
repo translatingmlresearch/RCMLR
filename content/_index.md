@@ -10,12 +10,14 @@ In early discovery, frameworks to address this challenge are largely absent; in 
 
 In response, this workshop treats structured, interdisciplinary dialogue as the method. Initiated from within the ML research community, it brings those who produce ML findings into direct exchange with the clinicians, policymakers and science communicators who must interpret and act on them. Previous NeurIPS, ICML and ICLR workshops have advanced related themes primarily from the ML perspective, including explainability, interpretability and responsible AI. This workshop builds on that foundation by shifting focus from how findings are communicated within ML to how they translate across the biomedical landscape and those who shape it. Grounded in real-world case studies, the workshop is designed to surface opportunities for evidence-based communication approaches when moving from problem to practice, with interdisciplinary exchange at its core.
 
+
 ## Important dates
 
 * Call for papers: Topics now available – OpenReview link to follow
 * Submission deadline: 29 August 2026 (AOE)
 * Author notifications: 29 September 2026 (AOE)
 * Workshop date: 11 or 12 December 2026 (TBC)
+
 
 ## Organizers
 
@@ -39,7 +41,7 @@ In response, this workshop treats structured, interdisciplinary dialogue as the 
         "organizers/Jessica Schrouff.jpg",
     ]) }}
 
-Contact the organizers: [translating.ml.research@gmail.com](mailto:translating.ml.research@gmail.com)
 
-This workshop is part of NeurIPS 2026.
-For general conference information, visit [neurips.cc](http://neurips.cc/).
+
+<p style="text-align: center;">Contact the organizers: <a href="mailto:translating.ml.research@gmail.com">translating.ml.research@gmail.com</a></p>
+<p style="text-align: center;">This workshop is part of NeurIPS 2026. For general conference information, visit <a href="http://neurips.cc/">neurips.cc</a>.</p>
