@@ -23,6 +23,12 @@ In response, this workshop treats structured, interdisciplinary dialogue as the 
 <p style="text-align: center;"><strong>Author notifications:</strong> 29 September 2026 (AOE)</p>
 <p style="text-align: center;"><strong>Workshop date:</strong> 11 or 12 December 2026 (TBC)</p>
 
+
+
+{{ new_block() }}
+
+
+
 <h3 style="text-align: center;">Coming soon</h3>
 <p style="text-align: center;">Speaker lineup and agenda will be shared here in advance of the workshop.</p>
 
