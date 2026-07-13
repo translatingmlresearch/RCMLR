@@ -4,8 +4,8 @@ title = "Call for Papers"
 
 <h1 style="text-align: center;">Call for papers</h1>
 
-* Submission deadline: 29 August 2026 (AOE)
-* Submission portal: OpenReview link coming soon
+<p style="text-align: center;"><strong>Submission deadline: 29 August 2026 (AOE)</strong></p>
+<p style="text-align: center;"><strong>Submission portal: OpenReview link coming soon</strong></p>
 
 We invite you to submit your paper to the workshop on Responsible Communication of Machine Learning Research in Biomedicine, to be held as part of the NeurIPS 2026 conference.
 
@@ -99,7 +99,7 @@ The tracks below are illustrative examples of relevant themes. We welcome submis
 
 <h2 style="text-align: center;">Presentation opportunities</h2>
 
-Accepted papers will be presented in an interactive poster session on the day of the workshop. A subset of papers will be selected for presentation in short contributed talks with Q&As.
+<p style="text-align: center;">Accepted papers will be presented in an interactive poster session on the day of the workshop. A subset of papers will be selected for presentation in short contributed talks with Q&As.</p>
 
 
 
@@ -109,10 +109,14 @@ Accepted papers will be presented in an interactive poster session on the day of
 
 <h2 style="text-align: center;">Important dates</h2>
 
+<div style="text-align: center;">
+
 * Call for papers: Topics now available – OpenReview link to follow
 * Submission deadline: 29 August 2026 (AOE)
 * Author notifications: 29 September 2026 (AOE)
 * Workshop date: 11 or 12 December 2026 (TBC)
+
+</div>
 
 
 
@@ -122,6 +126,5 @@ Accepted papers will be presented in an interactive poster session on the day of
 
 <h2 style="text-align: center;">Questions?</h2>
 
-For questions about submissions, please contact the organizing committee at translating.ml.research@gmail.com
-
-This workshop is part of NeurIPS 2026. For general conference information, visit neurips.cc.
+<p style="text-align: center;">For questions about submissions, please contact the organizing committee at translating.ml.research@gmail.com</p>
+<p style="text-align: center;">This workshop is part of NeurIPS 2026. For general conference information, visit neurips.cc.</p>
