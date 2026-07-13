@@ -2,7 +2,7 @@
 title = "Call for Papers"
 +++
 
-# Call for papers
+# Call for papers 
 
 * Submission deadline: 29 August 2026 (AOE)
 * Submission portal: OpenReview link coming soon
