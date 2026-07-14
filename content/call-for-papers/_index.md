@@ -53,7 +53,7 @@ We particularly encourage:
 
 <h2 style="text-align: center;">Topics of interest</h2>
 
-The tracks below are illustrative examples of relevant themes. We welcome submissions on any topic that engages substantively with using, evaluating, governing or communicating about machine learning — including foundation models and LLMs — in biomedicine.
+The tracks below are illustrative examples of relevant themes. We welcome submissions on any topic that engages substantively with using, evaluating, governing or communicating about machine learning (including foundation models and LLMs) in biomedicine.
 
 **Track 1: Empirical studies of ML capability claims in biomedicine**
 
