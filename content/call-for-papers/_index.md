@@ -11,7 +11,7 @@ title = "Call for Papers"
 
 </div>
 
-We invite you to submit your paper to the workshop on Responsible Communication of Machine Learning Research in Biomedicine, to be held as part of the NeurIPS 2026 conference.
+We invite you to submit your paper to the workshop on 'Responsible Communication of Machine Learning Research in Biomedicine', to be held as part NeurIPS 2026.
 
 Our workshop treats structured, interdisciplinary dialogue as the method for closing the gap between what ML systems can deliver in biomedical contexts and how their capabilities are communicated to those who use or regulate them. We invite submissions that engage substantively with ML research practice, outputs or capabilities from an empirical, methodological, policy or science communication perspective.
 
