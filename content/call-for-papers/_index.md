@@ -41,7 +41,7 @@ We particularly encourage:
 
 **Review protocol:** Authors should anonymize their submissions to ensure a double blind review process.
 
-**LLM policy:** In the preparation of your contributions, the use of LLMs is allowed only as a general-purpose writing assist tool.
+**LLM policy:** In the preparation of your contributions, the use of LLMs is allowed only as a general-purpose writing assistance tool.
 
 **Publication:** The workshop is non-archival. By default, accepted papers will be made publicly available on OpenReview.
 
