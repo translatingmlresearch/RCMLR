@@ -33,7 +33,7 @@ We particularly encourage:
 
 **Format:** We offer two submission tracks — full papers (6–8 pages) for original research, empirical studies, technical contributions or case studies; and short papers or extended abstracts (2–3 pages) for work in progress or preliminary findings. Page limits exclude references.
 
-**Template:** Use the standard NeurIPS 2026 LaTeX style files (available to download here).
+**Template:** Use the standard NeurIPS 2026 LaTeX style files ([available to download here](https://neurips.cc/public/guides/PaperChecklist)).
 
 **Submission:** All submissions should be made via OpenReview (link to follow).
 
