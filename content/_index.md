@@ -60,5 +60,11 @@ In response, this workshop treats structured, interdisciplinary dialogue as the 
         "organizers/Jessica Schrouff.jpg",
     ]) }}
 
+<div style="text-align: center; padding: 40px 20px; margin-top: 40px; background-color: rgba(255,255,255,0.03); border-top: 1px solid rgba(255,255,255,0.15);">
+
+## Questions?
+
 <p style="text-align: center;">Contact the organizers: <a href="mailto:translating.ml.research@gmail.com">translating.ml.research@gmail.com</a></p>
 <p style="text-align: center;">This workshop is part of NeurIPS 2026. For general conference information, visit <a href="http://neurips.cc/">neurips.cc</a>.</p>
+
+</div>
