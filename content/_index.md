@@ -51,7 +51,7 @@ In response, this workshop treats structured interdisciplinary dialogue as the m
         ["Jessica Schrouff","GSK AIML"],
     ],
     images = [
-        "organizers/Siobhan Sanford.png",
+        "organizers/Siobhan Saford.jpg",
         "organizers/JM.jpg",
         "organizers/Qiyao Wei.png",
         "organizers/GK.jpg",
