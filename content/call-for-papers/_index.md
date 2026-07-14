@@ -121,5 +121,5 @@ The tracks below are illustrative examples of relevant themes. We welcome submis
 
 <h2 style="text-align: center;">Questions?</h2>
 
-<p style="text-align: center;">For questions about submissions, please contact the organizing committee at translating.ml.research@gmail.com</p>
-<p style="text-align: center;">This workshop is part of NeurIPS 2026. For general conference information, visit neurips.cc.</p>
+<p style="text-align: center;">For questions about submissions, please contact the organizing committee at <a href="mailto:translating.ml.research@gmail.com">translating.ml.research@gmail.com</a></p>
+<p style="text-align: center;">This workshop is part of NeurIPS 2026. For general conference information, visit <a href="http://neurips.cc/">neurips.cc</a>.</p>
