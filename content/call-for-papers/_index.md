@@ -60,11 +60,13 @@ The tracks below are illustrative examples of relevant themes. We welcome submis
 * Studies of audience comprehension, public understanding or misunderstanding of ML capabilities and limitations
 * Empirical analysis of patterns in overstated or misrepresented capability claims
 * Studies evaluating how capability claims influence trust or adoption decisions
+* Studies of terminology and vocabulary gaps between ML and clinical, policy or science communication communities
 * Comparisons across publication venues (e.g. papers, press releases, social media, clinician-facing materials)
 
 **Track 2: Methods and tools for communicating ML capabilities and limitations**
 
 * Evidence-based practices for translating ML concepts to non-experts
+* Development of shared vocabulary or terminology frameworks to bridge ML and biomedical/clinical/policy communication
 * Novel approaches to communicating model uncertainty and limitations, including for foundation models and LLMs
 * Communication-focused evaluation metrics for ML systems
 * Explainability and interpretability methods designed for non-technical stakeholders
