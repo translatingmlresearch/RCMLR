@@ -7,7 +7,7 @@ title = "Call for Papers"
 # Call for papers
 
 <p style="text-align: center;"><strong>Submission deadline: 29 August 2026 (AOE)</strong></p>
-<p style="text-align: center;"><strong>Submission portal: OpenReview link coming soon</strong></p>
+<p style="text-align: center;"><strong>Submission portal: [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/RCMLR)</strong></p>
 
 </div>
 
