@@ -35,7 +35,7 @@ We particularly encourage:
 
 **Template:** Use the standard NeurIPS 2026 LaTeX style files ([available to download here](https://neurips.cc/public/guides/PaperChecklist)).
 
-**Submission:** All submissions should be made via OpenReview (link to follow).
+**Submission:** All submissions should be made via <a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/RCMLR">OpenReview</a>.
 
 **OpenReview profile:** All authors and reviewers must have an OpenReview profile by the submission deadline. New profiles created without an institutional email can take up to two weeks to be moderated and activated; profiles created with an institutional email are activated automatically (see the NeurIPS [Main Track Handbook](https://neurips.cc/Conferences/2026/MainTrackHandbook) for more information).
 
