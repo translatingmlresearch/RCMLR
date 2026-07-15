@@ -18,7 +18,7 @@ In response, this workshop treats structured interdisciplinary dialogue as the m
 
 <h2 style="text-align: center;">Important dates</h2>
 
-<p style="text-align: center;"><strong>Call for papers:</strong> Topics now available – OpenReview link to follow</p>
+<p style="text-align: center;"><strong>Call for papers:</strong> Topics now available – submission via <a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/RCMLR">OpenReview</a></p>
 <p style="text-align: center;"><strong>Submission deadline:</strong> 29 August 2026 (AOE)</p>
 <p style="text-align: center;"><strong>Author notifications:</strong> 29 September 2026 (AOE)</p>
 <p style="text-align: center;"><strong>Workshop date:</strong> 11 or 12 December 2026 (TBC)</p>
