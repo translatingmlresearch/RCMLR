@@ -110,7 +110,7 @@ The tracks below are illustrative examples of relevant themes. We welcome submis
 
 
 <h2 style="text-align: center;">Important dates</h2>
-<p style="text-align: center;">Call for papers: Now open</p>
+<p style="text-align: center;">Call for papers: Now open – submission via <a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/RCMLR">OpenReview</a> </p>
 <p style="text-align: center;">Submission deadline: 29 August 2026 (AOE)</p>
 <p style="text-align: center;">Author notifications: 29 September 2026 (AOE)</p>
 <p style="text-align: center;">Workshop date: 11 or 12 December 2026 (TBC)</p>
