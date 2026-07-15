@@ -28,20 +28,27 @@ We particularly encourage:
 {{ new_block() }}
 
 
-
 <h2 style="text-align: center;">Paper submission guidelines</h2>
 
-**Format:** We offer two submission tracks — full papers (6–8 pages) for original research, empirical studies, technical contributions or case studies; and short papers or extended abstracts (2–3 pages) for work in progress or preliminary findings. Page limits exclude references.
+**OpenReview profile:** <mark>All authors and reviewers must have an OpenReview profile by the submission deadline. New profiles created without an institutional email can take up to two weeks to be moderated and activated</mark>; profiles created with an institutional email are activated automatically (see the NeurIPS [Main Track Handbook](neurips.cc/Conferences/2026/MainTrackHandbook) for more information).
 
-**Template:** Use the standard NeurIPS 2026 LaTeX style files ([available to download here](https://neurips.cc/public/guides/PaperChecklist)).
+**Novelty and dual submission:** Submissions must present novel work not published in archival form elsewhere, including in the NeurIPS 2026 main track, evaluations and datasets track, or position paper track.
 
-**Submission:** All submissions should be made via <a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/RCMLR">OpenReview</a>.
+**Format:** We offer two submission tracks — full papers (6–8 pages) for original research, empirical studies, technical contributions or case studies; and short papers or extended abstracts (2–3 pages) for work in progress or preliminary findings. Page limits exclude references and appendices.
 
-**OpenReview profile:** All authors and reviewers must have an OpenReview profile by the submission deadline. New profiles created without an institutional email can take up to two weeks to be moderated and activated; profiles created with an institutional email are activated automatically (see the NeurIPS [Main Track Handbook](https://neurips.cc/Conferences/2026/MainTrackHandbook) for more information).
+**Template:** Use the standard NeurIPS 2026 LaTeX style files ([available to download here](neurips.cc/public/guides/PaperChecklist)).
 
 **Review protocol:** Authors should anonymize their submissions to ensure a double blind review process.
 
 **LLM policy:** In the preparation of your contributions, the use of LLMs is allowed only as a general-purpose writing assistance tool.
+
+**Supplementary material:** No separate supplementary files are accepted. Additional analyses should be included as an appendix within the main PDF.
+
+**Code and data:** Code or data accompanying a submission must be hosted on a public platform rather than shared as a zip file or drive link (exceptions require a clear scientific or ethical justification). All linked materials must be anonymised.
+
+**Submission:** All submissions should be made via <a href="openreview.net/group?…">OpenReview</a>.
+
+**Reviewer nomination:** Every submission must nominate at least one author as a qualified reviewer, defined as at least one first-authored or three co-authored publications at a relevant peer-reviewed venue. Failure to nominate a qualified reviewer when one is available in the author list may result in desk rejection.
 
 **Publication:** The workshop is non-archival. By default, accepted papers will be made publicly available on OpenReview.
 
