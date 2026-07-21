@@ -32,7 +32,7 @@ We particularly encourage:
 
 **OpenReview profile:** <mark>All authors and reviewers must have an OpenReview profile by the submission deadline. New profiles created without an institutional email can take up to two weeks to be moderated and activated</mark>; profiles created with an institutional email are activated automatically (see the NeurIPS [Main Track Handbook](https://neurips.cc/Conferences/2026/MainTrackHandbook) for more information).
 
-**Novelty and dual submission:** Submissions must be novel and not already published in an archival form elsewhere (including the NeurIPS 2026 main track, evaluations and datasets track, or position paper track).
+**Novelty:** Submissions must be novel and not already published in an archival form elsewhere (including the NeurIPS 2026 main track, evaluations and datasets track, or position paper track).
 
 **Format:** We offer two submission tracks — full papers (6–8 pages) for original research, empirical studies, technical contributions or case studies; and short papers or extended abstracts (2–3 pages) for work in progress or preliminary findings. Page limits exclude references and appendices.
 
