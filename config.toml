@@ -1,4 +1,6 @@
 base_url = "https://translatingmlresearch.github.io/RCMLR/"
+title = "RCMLR: Responsible Communication of ML Research in Biomedicine"
+description = "A NeurIPS 2026 workshop bridging the gap between ML researchers and the clinicians, policymakers and domain scientists who must act on their findings."
 compile_sass = true
 build_search_index = false
 generate_feeds = false
