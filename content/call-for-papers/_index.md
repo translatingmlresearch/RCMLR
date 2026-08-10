@@ -8,6 +8,7 @@ title = "Call for Papers"
 
 <p style="text-align: center;"><strong>Submission deadline: 29 August 2026 (AOE)</strong></p>
 <p style="text-align: center;"><strong>Submission portal: <a href="https://openreview.net/group?id=NeurIPS.cc/2026/Workshop/RCMLR">OpenReview</a></strong></p>
+<p style="text-align: center;"><strong>Reviewer registration: <a href="https://forms.gle/cjFwgAY9bpBwywhS7">Register your interest here</a></strong></p>
 
 </div>
 
