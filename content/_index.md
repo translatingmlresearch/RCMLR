@@ -56,7 +56,7 @@ In response, this workshop treats structured interdisciplinary dialogue as the m
         ["Qiyao Wei","Cambridge University"],
         ["Galvin Khara","GSK AIML"],
         ["Nikhil Kurian","Adelaide University"],
-        ["Ben Glocker","Imperial University"],
+        ["Ben Glocker","Imperial College London"],
         ["Jessica Schrouff","GSK AIML"],
     ],
     images = [
