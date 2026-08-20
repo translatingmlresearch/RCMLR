@@ -23,7 +23,7 @@ title = "Speakers"
         "speakers/marinka-zitnik-300x350.jpg",
         "speakers/Vivek Natarajan.jpg",
         "speakers/Natasha Latysheva.jpg",
-        "speakers/Joseph-Powell.jpg",
+        "speakers/Joseph-Powell.png",
         "speakers/Hanna Suominen.jpg",
         "speakers/MB.jpg",
     ]) }}
