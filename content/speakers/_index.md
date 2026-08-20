@@ -4,6 +4,28 @@ title = "Speakers"
 
 <h1 style="text-align: center;">Speakers</h1>
 
-<p style="text-align: center;">Our speakers and panellists include machine learning researchers and biomedical researchers from academia and industry, clinicians, policy experts, and journalism and science communication specialists. By bringing together these diverse perspectives, we aim to facilitate cross-disciplinary dialogue to address the challenge of translating machine learning research across the biomedical landscape.</p>
+<p style="text-align: center;">By bringing together diverse perspectives, we aim to facilitate cross-disciplinary dialogue to address the challenge of translating machine learning research across biomedical and clinical landscapes.</p>
 
-<p style="text-align: center;">A full participant list and agenda will be shared here in advance of the workshop.</p>
+{{ grid(
+    text = [
+        ["Fang Chen","University of Technology Sydney"],
+        ["Kimberlee Weatherall","University of Sydney"],
+        ["Marinka Zitnik","Harvard Medical School"],
+        ["Vivek Natarajan","Google DeepMind"],
+        ["Natasha Latysheva","Google DeepMind"],
+        ["Joseph Powell","Garvan Institute"],
+        ["Hanna Suominen","ANU / CSIRO Data61"],
+        ["Mohana Basu","Nature"],
+    ],
+    images = [
+        "speakers/Fang Chen.jpg",
+        "speakers/Kim-Weatherall-250x250.jpg",
+        "speakers/marinka-zitnik-300x350.jpg",
+        "speakers/Vivek Natarajan.jpg",
+        "speakers/Natasha Latysheva.jpg",
+        "speakers/Joseph-Powell.jpg",
+        "speakers/Hanna Suominen.jpg",
+        "speakers/MB.jpg",
+    ]) }}
+
+<p style="text-align: center;">Additional participants and a full agenda will be shared here in advance of the workshop.</p>
