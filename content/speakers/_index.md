@@ -4,7 +4,6 @@ title = "Speakers"
 
 <h1 style="text-align: center;">Speakers</h1>
 
-<p style="text-align: center;">By bringing together diverse perspectives, we aim to facilitate cross-disciplinary dialogue to address the challenge of translating machine learning research across biomedical and clinical landscapes.</p>
 
 {{ grid(
     text = [
