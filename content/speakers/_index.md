@@ -27,4 +27,4 @@ title = "Speakers"
         "speakers/MB.jpg",
     ]) }}
 
-<p style="text-align: center;">Additional participants and a full agenda will be shared here in advance of the workshop.</p>
+<p style="text-align: center;">More speakers and a full agenda will be shared here in advance of the workshop.</p>
