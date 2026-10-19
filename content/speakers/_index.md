@@ -8,8 +8,8 @@ title = "Speakers"
     text = [
         ["Fang Chen","University of Technology Sydney"],
         ["Kimberlee Weatherall","University of Sydney"],
-        ["Marinka Zitnik","Harvard Medical School"],
-        ["Vivek Natarajan","Google DeepMind"],
+        ["Mercy Asiedu","Google Research"],
+        ["Lyle Palmer","Adelaide University"],
         ["Natasha Latysheva","Google DeepMind"],
         ["Joseph Powell","Garvan Institute"],
         ["Hanna Suominen","ANU / CSIRO Data61"],
@@ -18,8 +18,8 @@ title = "Speakers"
     images = [
         "speakers/Fang Chen.jpg",
         "speakers/Kim-Weatherall-250x250.jpg",
-        "speakers/marinka-zitnik-300x350.jpg",
-        "speakers/Vivek Natarajan.jpg",
+        "speakers/mercy_a.jpeg",
+        "speakers/lyle_palmer.jpeg",
         "speakers/Natasha Latysheva.jpg",
         "speakers/Joseph-Powell.png",
         "speakers/Hanna Suominen.jpg",
