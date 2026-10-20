@@ -18,8 +18,8 @@ title = "Speakers"
     images = [
         "speakers/Fang Chen.jpg",
         "speakers/Kim-Weatherall-250x250.jpg",
-        "speakers/Mercy_Asiedu.jpg",
-        "speakers/lyle_palmer.jpg",
+        "speakers/Mercy Asiedu.jpg",
+        "speakers/lyle palmer.jpg",
         "speakers/Natasha Latysheva.jpg",
         "speakers/Joseph-Powell.png",
         "speakers/Hanna Suominen.jpg",
