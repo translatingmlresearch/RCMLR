@@ -34,14 +34,6 @@ In response, this workshop treats structured interdisciplinary dialogue as the m
 <p style="text-align: center;">We welcome reviewers with expertise in ML, biomedicine, clinical research, policy or science communication. <a href="https://forms.gle/cjFwgAY9bpBwywhS7">Register your interest here.</a></p>
 
 
-{{ new_block() }}
-
-
-
-<h3 style="text-align: center;">Coming soon</h3>
-<p style="text-align: center;">Speaker lineup and agenda will be shared here in advance of the workshop.</p>
-
-
 
 {{ new_block() }}
 
