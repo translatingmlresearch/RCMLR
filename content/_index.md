@@ -22,7 +22,7 @@ In response, this workshop treats structured interdisciplinary dialogue as the m
 <p style="text-align: center;"><strong>Reviewer registration:</strong> <a href="https://forms.gle/cjFwgAY9bpBwywhS7">Register your interest here</a></p>
 <p style="text-align: center;"><strong>Submission deadline:</strong> 29 August 2026 (AOE)</p>
 <p style="text-align: center;"><strong>Author notifications:</strong> 29 September 2026 (AOE)</p>
-<p style="text-align: center;"><strong>Workshop date:</strong> 12 December 2026 (TBC)</p>
+<p style="text-align: center;"><strong>Workshop date:</strong> 12 December 2026 </p>
 
 
 {{ new_block() }}
