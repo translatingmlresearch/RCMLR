@@ -2,7 +2,7 @@
 title = "Speakers"
 +++
 
-<h1 style="text-align: center;">Speakers</h1>
+<h1 style="text-align: center;">Speakers and panellists</h1>
 
 {{ grid(
     text = [
