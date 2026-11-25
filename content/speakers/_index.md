@@ -14,6 +14,9 @@ title = "Speakers"
         ["Joseph Powell","Garvan Institute"],
         ["Hanna Suominen","ANU / CSIRO Data61"],
         ["Mohana Basu","Nature"],
+        ["Brittany Trang","STAT News"],
+        ["Liesbeth Venema","Nature Machine Intelligence"],
+        ["Anna Banaszak","Phylo"],
     ],
     images = [
         "speakers/Fang Chen.jpg",
@@ -24,6 +27,9 @@ title = "Speakers"
         "speakers/Joseph-Powell.png",
         "speakers/Hanna Suominen.jpg",
         "speakers/MB.jpg",
+        "speakers/Brittany-Trang.jpg",
+        "speakers/Liesbeth Venema.png",
+        "speakers/Anna B.jpg",
     ]) }}
 
-<p style="text-align: center;">More speakers and a full agenda will be shared here in advance of the workshop.</p>
+<p style="text-align: center;">A full agenda will be shared in advance of the workshop.</p>
